@@ -61,6 +61,7 @@ nav a:hover{
     background: #00adb5;
     color: white;
 }
+
 .about-container {
     display: flex;
     align-items: center;
@@ -69,21 +70,25 @@ nav a:hover{
     gap: 50px;
     padding: 50px;
 }
+
 .about-image img {
     width: 350px;
     height: 300px;
     border-radius: 10px;
     border: 4px solid #00adb5;
 }
+
 .about-text {
     max-width: 500px;
     text-align: left;
 }
+
 .about-text h2 {
     font-size: 50px;
     margin-bottom: 20px;
 }
+
 .about-text p {
     font-size: 18px;
-    line-height: 1.6;
+    line-height: 1.8;
 }
